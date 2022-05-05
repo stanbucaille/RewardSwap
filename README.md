@@ -1,4 +1,4 @@
-# rewardswap-web-app
+# RewardSwap
 
 ## I. Description of the smart contract
 
